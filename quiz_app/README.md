@@ -13,6 +13,11 @@ This application offers an interactive quiz with the following features:
 - Calculate and display score
 - Restart quiz
 
+## Online Access
+
+Also available online via the following [Appetize](https://appetize.io/) link:
+- [Quiz App - Appetize](https://appetize.io/app/b_6nbgt744euejyludzjpbp4pwza)
+
 ## Prerequisites
 
 - Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)

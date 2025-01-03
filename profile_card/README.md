@@ -11,6 +11,13 @@ This application offers multiple profile cards with the following information:
 - Profile picture
 - Links to social networks, etc.
 
+## Online Access
+
+Also available online via the following [Appetize](https://appetize.io/) link:
+- [Quiz App - Appetize](https://appetize.io/app/b_kvbeq7ki27nntrdvut2n6jpq6u) 
+
+(Attention : l'ouverture de liens sur Appetize ne fonctionne pas)
+
 ## Prerequisites
 
 - Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)

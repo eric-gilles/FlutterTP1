@@ -24,6 +24,14 @@ Cette application propose un quiz interactif avec les fonctionnalités suivantes
 - Calcul et affichage du score
 - Possibilité de recommencer le quiz
 
+## Accès en ligne
+
+Également disponible en ligne via les liens [Appetize](https://appetize.io/) suivants :
+- [Profile Card App - Appetize](https://appetize.io/app/b_kvbeq7ki27nntrdvut2n6jpq6u)
+
+    (Attention : l'ouverture de liens sur Appetize ne fonctionne pas)
+- [Quiz App - Appetize](https://appetize.io/app/b_6nbgt744euejyludzjpbp4pwza)
+
 ## Prérequis
 
 - Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
