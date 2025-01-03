@@ -8,14 +8,14 @@ Ce projet contient deux applications développées en Flutter : une application 
 
 ## Applications
 
-### 1. Application de Carte de Profil - [Profile Card App](https://github.com/eric-gilles/FlutterTP1/profile_card)
+### 1. Application de Carte de Profil - [Profile Card App](https://github.com/eric-gilles/FlutterTP1/tree/main/profile_card)
 
 Cette application affiche plusieurs cartes de profil avec les informations suivantes :
 - Nom, prénom, email
 - Photo de profil
 - Liens vers les réseaux sociaux, etc.
 
-### 2. Application de Quiz - [Quiz App](https://github.com/eric-gilles/FlutterTP1/quiz_app)
+### 2. Application de Quiz - [Quiz App](https://github.com/eric-gilles/FlutterTP1/tree/main/quiz_app)
 
 Cette application propose un quiz interactif avec les fonctionnalités suivantes :
 - Affichage des questions
